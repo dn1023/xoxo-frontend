@@ -1,0 +1,366 @@
+{
+  "main": {
+    "name": "Vegetable Destroyer",
+    "shortDesc": "I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance.",
+    "titles": [
+      "Frontend Development",
+      "Backend Development",
+      "FullStack Development",
+      "Mobile App Development",
+      "Android Development",
+      "iOS App Development",
+      "Windows App Development",
+      "BlockChain Development",
+      "Smart Contract Development",
+      "dApp Development",
+      "Solana, Bit, Ether, Injective Development"
+    ],
+    "heroImage": "https://i.ibb.co/rvhgw70/1.png",
+    "techStackImages": [
+      "https://img.icons8.com/color/144/000000/material-ui.png",
+      "https://img.icons8.com/color/144/000000/html-5--v1.png",
+      "https://img.icons8.com/color/144/000000/redux.png",
+      "https://img.icons8.com/color/144/000000/chakra-ui.png"
+    ]
+  },
+  "about": {
+    "aboutImage": "https://i.ibb.co/WvVBtQr/2.png",
+    "aboutImageCaption": "< I build stuff 🚀/>",
+    "title": "Full Stack Developer",
+    "about": "I am a Full-Stack developer who has very experienced skills with Big Software development Company. As you can see my Work history, I have very rich experience at Web Development, Mobile Development, BlockChain Development. working with several years at Software development Company as a Senior Developer or Lead Developer, I have earned many of skills and understand deeply what clients loves and why they want requirements. When we working together, this will be great help. Looking forward man who wants to make your dream to real. Let's go, I am always here with you.",
+    "callUrl": "",
+    "resumeUrl": ""
+  },
+  "socials": [
+    {
+      "icon": "FaLinkedin",
+      "link": "www.linkedin.com/in/adam-zhao-2a6a6a2b6"
+    },
+    {
+      "icon": "FaGithub",
+      "link": "https://github.com/VegetableDev0701"
+    },
+    {
+      "icon": "FaInstagram",
+      "link": "https://www.instagram.com/jhondoe"
+    },
+    {
+      "icon": "FaTwitter",
+      "link": "https://twitter.com/jhondoe"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Frontend",
+      "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
+      "name": "JavaScript"
+    },
+    {
+      "category": "Backend",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "name": "Firebase"
+    },
+    {
+      "category": "Tools",
+      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
+      "name": "GitHub"
+    },
+    {
+      "category": "Frontend",
+      "image": "https://i.ibb.co/9p52gR7/Ajax.png",
+      "name": "Ajax"
+    },
+    {
+      "category": "Frontend",
+      "image": "https://i.ibb.co/pKyGfcX/angular.png",
+      "name": "angular"
+    },
+  {
+      "category": "Frontend",
+      "image": "https://i.ibb.co/Kr2dHyG/material-ui.png",
+      "name": "Material UI"
+    },
+  {
+      "category": "Frontend",
+      "image": "https://i.ibb.co/kQ4wpv4/next.png",
+      "name": "Next"
+    },
+  {
+      "category": "Frontend",
+      "image": "https://i.ibb.co/WsbNnYG/nuxt.png",
+      "name": "Nuxt"
+    },
+  {
+      "category": "Frontend",
+      "image": "https://i.ibb.co/Kb7FBbZ/react.png",
+      "name": "React"
+    },
+  {
+      "category": "Frontend",
+      "image": "https://i.ibb.co/rbhXB39/redux.png",
+      "name": "Redux"
+    },
+  {
+      "category": "Frontend",
+      "image": "https://i.ibb.co/hfFK03D/sevelt.png",
+      "name": "Sevelt"
+    },
+  {
+      "category": "Frontend",
+      "image": "https://i.ibb.co/WfQk6kw/tailwind.png",
+      "name": "Tailwind CSS"
+    },
+  {
+      "category": "Frontend",
+      "image": "https://i.ibb.co/pWH2LHz/vue.png",
+      "name": "Vue"
+    },
+  {
+      "category": "Frontend",
+      "image": "https://i.ibb.co/VxmyzkP/VueX.png",
+      "name": "Vuex"
+    },
+  {
+      "category": "Frontend",
+      "image": "https://i.ibb.co/23jBsdQ/zustand.png",
+      "name": "Zustand"
+    },
+  {
+      "category": "Frontend",
+      "image": "https://i.ibb.co/q7SgqMP/bootstarp.png",
+      "name": "Bootstrap"
+    },
+  {
+      "category": "Frontend",
+      "image": "https://i.ibb.co/n39wgkX/CSS3.png",
+      "name": "CSS3"
+    },
+  {
+      "category": "Frontend",
+      "image": "https://i.ibb.co/HdQrmPD/foundation.jpg",
+      "name": "Foundation"
+    },
+  {
+      "category": "Frontend",
+      "image": "https://i.ibb.co/yNsyrfG/HTML5.png",
+      "name": "HTML5"
+    },
+  {
+      "category": "Frontend",
+      "image": "https://i.ibb.co/YtW9h08/jquery.png",
+      "name": "jQuery"
+    },
+  {
+      "category": "Frontend",
+      "image": "https://i.ibb.co/WW7SMnk/JS.png",
+      "name": "JS"
+    },
+  {
+      "category": "Backend",
+      "image": "https://i.ibb.co/641qWbs/django.png",
+      "name": "Django"
+    },
+  {
+      "category": "Backend",
+      "image": "https://i.ibb.co/h7sDjcg/express.png",
+      "name": "Express"
+    },
+  {
+      "category": "Backend",
+      "image": "https://i.ibb.co/9hKn8wt/flask.png",
+      "name": "Flask"
+    },
+  {
+      "category": "Backend",
+      "image": "https://i.ibb.co/2Kn4Tgk/laravel.png",
+      "name": "Laravel"
+    },
+  {
+      "category": "Backend",
+      "image": "https://i.ibb.co/3Mpzh2L/node.png",
+      "name": "Node"
+    },
+  {
+      "category": "Backend",
+      "image": "https://i.ibb.co/hm6rfSv/php.png",
+      "name": "PHP"
+    },
+    {
+        "category": "Database",
+        "image": "https://i.ibb.co/5r6r0pj/firebase.png",
+        "name": "Firebase"
+      },
+    {
+        "category": "Database",
+        "image": "https://i.ibb.co/2qfsDfj/mongodb.jpg",
+        "name": "MongoDB"
+      },
+  {
+      "category": "Database",
+      "image": "https://i.ibb.co/2KBcMNM/sql.jpg",
+      "name": "Sql"
+    },
+    {
+        "category": "Server",
+        "image": "https://i.ibb.co/zbK92jz/aws.png",
+        "name": "AWS"
+      },
+    {
+        "category": "Server",
+        "image": "https://i.ibb.co/hs3gCHG/digitalocean.png",
+        "name": "DigitalOcean"
+      },
+  {
+      "category": "Server",
+      "image": "https://i.ibb.co/gJptzxr/vercel.png",
+      "name": "Vercel"
+    },
+  {
+    "category": "Tools",
+    "image": "https://i.ibb.co/5chM6Dw/code-commit.png",
+    "name": "Code Commit"
+  },
+  {
+    "category": "Tools",
+    "image": "https://i.ibb.co/sssWZKr/git.png",
+    "name": "Git"
+  },
+  {
+    "category": "Tools",
+    "image": "https://i.ibb.co/M926L98/gitlab.png",
+    "name": "Gitlab"
+  },
+  {
+    "category": "Tools",
+    "image": "https://i.ibb.co/hCc6s3n/slack.png",
+    "name": "Slack"
+  },
+  {
+    "category": "Tools",
+    "image": "https://i.ibb.co/hf2BCT5/bitbucket.png",
+    "name": "Bitbucket"
+  }
+  ],
+  "projects": [
+    {
+      "name": "Stakease ( Injective NFT Staking )",
+      "techstack": "HTML5, CSS3, JavaScript, jQuery, React, Redux, Injective, Web3",
+      "category": "Web,BlockChain,MobileResponsive",
+      "image": "https://i.ibb.co/fD4BnS4/dashboard.png",
+      "links": {
+        "code": "https://github.com/VegetableDev0701/Stakease",
+        "video": "",
+        "visit": "https://stakease.co"
+      }
+    },
+    {
+      "name": "Ticket Management - Viagogo",
+      "techstack": "HTML5, CSS3, JavaScript, jQuery, React, Redux, Tailwind CSS",
+      "category": "Web,MobileResponsive",
+      "image": "https://i.ibb.co/LCRc8Pd/www-viagogo-com.png",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": "https://www.viagogo.com/"
+      }
+    }
+  ],
+  "educations": [
+    {
+      "institute": "Temasek Secondary School",
+      "degree": "No Degree",
+      "duration": "2004 - 2011"
+    },
+    {
+      "institute": "Nanyang Technological University",
+      "degree": "Bachelor's degree, Computer Software Engineering",
+      "duration": "2011 - 2014",
+      "desc": [
+        "Nanyang Technological University is one of Singapore's two major national universities.",
+        "Founded in 1981, it is also the second-oldest autonomous university in the country",
+        " 50 Nanyang Ave, Singapore 639798"
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Upwork",
+      "position": "Senior Web & Mobile Developer",
+      "duration": "2015 Mar -2016 Sep",
+      "desc": [
+        "Developed a RESTful API backend to enable mobile app integration with theweb application.",
+        "Designed and implemented a stateless REST API that enabled mobiledevices to communicate with the web application.",
+        "Developed web and mobile responsive designs that improved userexperience across different devices",
+        "Skills: HTML · CSS · JavaScript · TailwindCSS · ReactJS · NodeJS · Angular · REST APIs"
+      ]
+    },
+    {
+      "company": "NosokTech",
+      "position": "Senior Web Developer",
+      "duration": "2016 Sep - 2017 Sep",
+      "desc": [
+        "Developed an API that enabled seamless integration with third-party servicesand increased system scalability.",
+        "Optimized website features to ensure compatibility with multiple browsers anddevices.",
+        "Utilized React.js to create a single-page application that improved page loadtimes by 10%",
+        "Used Git version control to track changes and ensure code quality",
+        "Developed and implemented a RESTful API that integrated with third-partyservices, allowing for data exchange"
+      ]
+    },
+    {
+      "company": "Upwork",
+      "position": "Senior Web & Web3 Developer",
+      "duration": "2017 Sep - 2018 May",
+      "desc": [
+        "Prepared and presented financial reports to senior management and externalstakeholders.",
+        "Prepared and presented financial reports to senior management thatprovided insights into the organization's financial health.",
+        "Developed a modular, single-page web application in Angular thatincorporated responsive design principles"
+      ]
+    },
+    {
+      "company": "TECHTIQ Solutions",
+      "position": "Block Chain Developer",
+      "duration": "2018 May - 2020 Nov",
+      "desc": [
+        "Collaborated with cross-functional teams to identify cost-saving opportunitiesand ensure alignment ofsupply chain activities with business objectives.",
+        "Streamlined supply chain operations, resulting in a 3% decrease in deliverytime and a 7% increase in customer satisfaction.",
+        "Developed a machine learning model that accurately predicted applicationusage patterns and trends.",
+        "Developed a RESTful API that served as the backend for a web application,improving scalability andreducing latency by 5%"
+      ]
+    },
+    {
+      "company": "TECHTIQ Solutions",
+      "position": "React Developer",
+      "duration": "2020 Dec - 2022 Jul",
+      "desc": [
+        "Implemented a responsive design that allowed the application to be usedacross multiple devices with minimal modifications.",
+        "Created reusable components to reduce code duplication and ease futuremaintenance.",
+        "Utilized GraphQL and Apollo to create an efficient data fetching layer.",
+        "Wrote unit tests for components and services to ensure code stability andreduce bugs.",
+        "Developed a single-page web application using React, Redux, andTypeScript that enabled users to access the company’s resources with ease"
+      ]
+    },
+    {
+      "company": "Intelegain Technologies",
+      "position": "Injective Developer",
+      "duration": "2022 Aug - 2023 Nov",
+      "desc": [
+        "responsible for developing and maintaining the protocol’s smart contracts.",
+        "work with the rest of the team to design and implement new features for theprotocol.",
+        "decentralized finance structure design.",
+        "Light & Reliable dApp Development.",
+        "NFT mint & Staking."
+      ]
+    },
+    {
+      "company": "Degen Devs Group(Remote, Online Dev Teams)",
+      "position": "Senior Web3 Developer",
+      "duration": "2023 Nov - 2024 Mar",
+      "desc": [
+        "responsible for developing and maintaining the protocol’s smart contracts.",
+        "Deploying Smart Contract and Mint CW721 based NFT Contract.",
+        "NFT Staking Logic Implement.",
+        "Solana, Ether Network Integration."
+      ]
+    }
+  ]
+}
