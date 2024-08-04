@@ -75,34 +75,6 @@ Change package.json
 ```
 ### 🙌 Production Environment
 ```
-NEXT_PUBLIC_GOOGLE_MAPS_API_KEY=AIzaSyC-NyZbxHv2o8wQMF5lzNqH7pevCakZbuo
-NEXT_PUBLIC_BACKEND_AUTH_API=https://api.welovelaundry.uk/api/auth/
-NEXT_PUBLIC_BACKEND_TEST_API=https://api.welovelaundry.uk/api/test/
-NEXT_PUBLIC_BACKEND_ORDER_API=https://api.welovelaundry.uk/api/order/
+
 ```
 
-### [🔥 Get Startup Pro](https://nextjstemplates.com/templates/saas-starter-startup)
-
-[![Startup Pro](https://raw.githubusercontent.com/NextJSTemplates/startup-nextjs/main/startup-pro.webp)](https://nextjstemplates.com/templates/saas-starter-startup)
-
-Startup Pro - Expertly crafted for fully-functional, high-performing SaaS startup websites. Comes with with Authentication, Database, Blog, and all the essential integrations necessary for SaaS business sites.
-
-
-### [🚀 View Free Demo](https://startup.nextjstemplates.com/)
-
-### [🚀 View Pro Demo](https://startup-pro.nextjstemplates.com/)
-
-### [📦 Download](https://nextjstemplates.com/templates/startup)
-
-### [🔥 Get Pro](https://nextjstemplates.com/templates/saas-starter-startup)
-
-### [🔌 Documentation](https://nextjstemplates.com/docs)
-
-
-### 📄 License
-
-
-### 💜 Support
-
-
-### ✨ Explore and Download - Free [Next.js Templates](https://nextjstemplates.com)
