@@ -7,8 +7,6 @@ import ChangePassword from "./ChangePassword";
 import Message from "./Message";
 
 const Testimonials = () => {
-
-
   return (
     <section className="dark:bg-bg-color-dark relative z-10 py-16 md:py-20 lg:py-28">
       <div className="container">
